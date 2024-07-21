@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="992106bb-2d9f-4ce4-9085-7fdc915e524d" name="Changes" comment="Keyur">
-      <change afterPath="$PROJECT_DIR$/img_slideshow/slideshow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digital_clock/clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Digital_clock/demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +34,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.clock.executor": "Run",
+    "Python.demo.executor": "Run",
     "Python.slideshow.executor": "Run",
     "Python.takepaymentonline.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
