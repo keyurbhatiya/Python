@@ -21,7 +21,7 @@ def save_file():
 
 root = tk.Tk()
 root.title("Simple Text Editor")
-root.geometry("8x600")
+root.geometry("800x600")
 
 
 menu = tk.Menu(root)
